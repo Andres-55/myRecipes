@@ -1,0 +1,156 @@
+* { 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    padding: 4% 4%;
+    font-size: 18px;
+    font-family: "Red Hat Text", serif;
+    color: #ffffef;
+    font-weight: 800;
+    background-color: rgba(135, 88, 53, 0.8);
+    background-image: 
+   
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%232d1804' fill-opacity='0.56'%3E%3Cpath fill-rule='evenodd' d='M0 0h40v40H0V0zm40 40h40v40H40V40zm0-40h2l-2 2V0zm0 4l4-4h2l-6 6V4zm0 4l8-8h2L40 10V8zm0 4L52 0h2L40 14v-2zm0 4L56 0h2L40 18v-2zm0 4L60 0h2L40 22v-2zm0 4L64 0h2L40 26v-2zm0 4L68 0h2L40 30v-2zm0 4L72 0h2L40 34v-2zm0 4L76 0h2L40 38v-2zm0 4L80 0v2L42 40h-2zm4 0L80 4v2L46 40h-2zm4 0L80 8v2L50 40h-2zm4 0l28-28v2L54 40h-2zm4 0l24-24v2L58 40h-2zm4 0l20-20v2L62 40h-2zm4 0l16-16v2L66 40h-2zm4 0l12-12v2L70 40h-2zm4 0l8-8v2l-6 6h-2zm4 0l4-4v2l-2 2h-2z'/%3E%3C/g%3E%3C/svg%3E")
+    ;
+    background-size: 120px 120px;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+h1 {
+    font-size: 5rem;
+    align-self: center;
+    margin-bottom: 1.5rem;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    padding: 0% 0%;
+}
+
+
+
+.product {
+    align-items: flex-start;
+    position: relative;
+    height: 100%;
+    border: 5px solid #ffffef;
+    border-radius: 3%;
+    padding-top: 6%;
+    margin-bottom: 3%;
+}
+
+.pics {
+    border-radius: 3%;
+    height: auto;
+    width: 100%;
+    border: 3px solid #ffffef;
+}
+
+
+.cat {
+    margin-bottom: 0.7rem;
+    margin-top: 0.3rem;;
+    font-size: 1.5rem;
+    color: rgba(255, 251, 231, 0.85);
+    flex-basis: 40%;
+}
+
+.name {
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+
+.bold-text {
+    font-weight: 600;
+}
+
+.recipe{
+    list-style-position: inside;
+    list-style-type: "-";
+    margin-top: 2%;
+}
+
+
+li {
+    margin-bottom: 0.7rem;
+}
+
+.recipe{
+    margin-bottom: 1.8rem;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgba(255, 251, 231, 1);
+}
+
+.amount{
+    margin-bottom: 0.7rem;
+    margin-top: 0.3rem;;
+    font-size: 1.1rem;
+    color: rgba(255, 251, 231, 0.85);
+    flex-basis: 30%;
+}
+
+.time{
+    margin-bottom: 0.7rem;
+    margin-top: 0.3rem;;
+    font-size: 1.1rem;
+    color: rgba(255, 251, 231, 0.85);
+    flex-basis:30%;
+}
+@media (min-width: 800px) {
+    #card {
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 0 auto;
+        max-width: 100%;
+        gap: 2px;
+    }
+
+    #left-side {
+        display: flex;
+        flex-direction: column;
+        flex: 5;
+        padding: 0% 2%;
+    }
+
+    #grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 15px;
+    }
+
+    #grid-container .pics {
+        width: 65%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .name, .cat, .recipe{
+        padding: 0% 4%;
+    }
+
+    .product {
+        padding-top: 6%;
+        margin-bottom: 0%;
+    }
+    
+}
+
+@media (min-width:1200px ) {
+    #grid-container .pics{
+        width: 60%;
+    }
+    
+}

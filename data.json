@@ -1,0 +1,177 @@
+[
+    {
+       "image": "./assets/images/chocolate-chip-cookies.jpg",
+       "name": "Chocolate Chip Cookies",
+       "category": "Cookie",
+       "amount": "Makes about 14",
+       "time": "325°  ~20 min",
+       "recipe": [
+            "1 cup unsalted butter, browned",
+            "3/4 cups granulated sugar",
+            "1.5 cups brown sugar",
+            "2 tsp expresso powder",
+            "2 tsp salt",
+            "0.5 tsp baking powder",
+            "2 eggs",
+            "2 tsp vanilla extract",
+            "2.5 cups all-purpose flour",
+            "6 oz chocolate chips"
+            ]
+    },
+
+    {
+        "image": "./assets/images/image-creme-brulee-desktop.jpg",
+        "name": "Chocolate Brownies",
+        "category": "Brownie",
+        "amount": "Makes about 14",
+        "time": "350°  ~22 min",
+        "recipe": [
+             "16 oz chocolate chips(half melted, half chopped)",
+             "24 tbsp butter",
+             "1.25 cups granulated sugar",
+             "0.75 cups brown sugar",
+             "4 eggs",
+             "4 tsp vanilla extract",
+             "0.5 cup cocoa powder",
+             "2 tsp salt", 
+             "1.5 tsp expresso powder"
+             ]
+     },
+
+     {
+        "image": "./assets/images/cinnamonrolls.jpg",
+        "name": "Cinnamon Rolls",
+        "category": "Cinnamon Roll",
+        "amount": "makes ~15",
+        "time": "325°  ~25-30 min",
+        "recipe": [
+             "2 cups warm milk",
+             "0.5 cups granulated sugar",
+             "12 tbsp butter, melted",
+             "24 tbsp butter, softened",
+             "2.25 tsp yeast",
+             "5 cups flour",
+             "2 tsp salt",
+             "1.25 brown sugar",
+             "4 tbsp cinnamon",
+             "8 oz cream cheese",
+             "2 tbsp vanilla extract",
+             "1.25 cups powdered sugar"
+             ]
+     },
+
+     {
+        "image": "./assets/images/image-tiramisu-desktop.jpg",
+        "name": "Pizza Dough",
+        "category": "Bread",
+        "amount": "Makes ~14\" Pizza",
+        "time": "400°-500°",
+        "recipe": [
+             "2.5 cup flour",
+             "2 tsp sugar",
+             "1.25 tsp salt",
+             "1 cup water",
+             "1.5 tsp yeast"
+             ]
+     },
+
+     {
+        "image": "./assets/images/image-baklava-desktop.jpg",
+        "name": "Garlic Knots",
+        "category": "Bread",
+        "amount": "Makes ~13",
+        "time": "350°  ~15-20 min",
+        "recipe": [
+             "2 cups flour",
+             "2 tbs yeast",
+             "3.5 tbs sugar",
+             "2 cups water",
+             "2 tbs milk",
+             "1 tbsp garlic powder",
+             "3 cups flour",
+             "1/2 cup Olive oil",
+             "1 tsp salt",
+             "1 stick butter melted",
+             "garlic"
+             ]
+     },
+
+     {
+        "image": "./assets/images/image-meringue-desktop.jpg",
+        "name": "Apple Pie",
+        "category": "Pie",
+        "amount": "Makes about 14",
+        "time": "400°  20 min, \ncover with foil 350° 1 hr",
+        "recipe": [
+             "22 tbsp butter",
+             "1 tbsp sugar",
+             "0.75 tsp salt",
+             "2.5 cups flour",
+             "3 lbs Granny Smith apples",
+             "0.8 cup brown sugar",
+             "3 tbsp cornstarch",
+             "3 tsp cinnamon",
+             "2 tsp apple cider vinegar",
+             "0.5 tsp salt",
+             "1 cup oats",
+             "0.5 tsp salt"
+             ]
+     },
+
+     {
+        "image": "./assets/images/churros.jpg",
+        "name": "Churros",
+        "category": "churros",
+        "amount": "Makes ?",
+        "time": "",
+        "recipe": [
+             "6 tbsp butter",
+             "1 cup water",
+             "2 tsp salt",
+             "1.5 tbsp granulated sugar",
+             "2 tsp vanilla extract",
+             "1 cup flour",
+             "3 eggs + 1 egg yolk",
+             "0.5 cups granulated sugar + cinnamon",
+             "-fhsdkj"
+             ]
+     },
+
+     {
+        "image": "./assets/images/image-brownie-desktop.jpg",
+        "name": "Salted Caramel Brownie",
+        "category": "Brownie",
+        "amount": "Makes about 14",
+        "time": "325°  ~20 min",
+        "recipe": [
+             "-fhjsdk",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "-fhsdkj"
+             ]
+     },
+
+     {
+        "image": "./assets/images/image-panna-cotta-desktop.jpg",
+        "name": "Vanilla Panna Cotta",
+        "category": "Panna Cotta",
+        "amount": "Makes about 14",
+        "time": "325°  ~20 min",
+        "recipe": [
+             "-fhjsdk",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "",
+             "-fhsdkj"
+             ]
+     }
+]
