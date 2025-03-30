@@ -3,7 +3,7 @@
        "image": "./assets/images/chocolate-chip-cookies.jpg",
        "name": "Chocolate Chip Cookies",
        "category": "Cookie",
-       "amount": "Makes about 14",
+       "amount": "Makes ~14",
        "time": "325°  ~20 min",
        "recipe": [
             "1 cup unsalted butter, browned",
@@ -18,6 +18,48 @@
             "6 oz chocolate chips"
             ]
     },
+
+    {
+     "image": "./assets/images/chocolate-chip-cookies.jpg",
+     "name": "Lemon Cookies",
+     "category": "Cookie-unfinished",
+     "amount": "Makes ~15",
+     "time": "350°  ~20 min",
+     "recipe": [
+          "1.5 cups flour",
+          "0.5 tsp baking powder",
+          "1 pinch salt",
+          "1 stick butter",
+          "1 cup sugar",
+          "1 egg",
+          "zest from 1.5 lemons",
+          "1/4 cup lemon juice",
+          "2.5 cups all-purpose flour",
+          "6 oz chocolate chips"
+          ]
+  },
+
+  {
+     "image": "./assets/images/image-panna-cotta-desktop.jpg",
+     "name": "Sugar Cookies",
+     "category": "Cookies",
+     "amount": "makes ?",
+     "time": "350°  10-12 min",
+     "recipe": [
+          "1.5 cups butter",
+          "1.5 cups sugar",
+          "3 tbsp cream cheese",
+          "1 egg",
+          "2 egg yolks",
+          "1 tsp vanilla extract",
+          "0.5 tsp almond extract",
+          "1 tsp salt",
+          "3.5 cups flour",
+          "0.5 tsp baking powder",
+          "2 tbsp baking powder",
+          "2 tsp cream of tartar"
+          ]
+  },
 
     {
         "image": "./assets/images/image-creme-brulee-desktop.jpg",
@@ -97,6 +139,47 @@
      },
 
      {
+          "image": "./assets/images/image-panna-cotta-desktop.jpg",
+          "name": "Bagels",
+          "category": "Bagel-unfinished",
+          "amount": "makes 4",
+          "time": "boil for 1 min each side then 400° 20-25 min",
+          "recipe": [
+               "1 cup water",
+               "2 tsp yeast",
+               "1.5 tbsp sugar",
+               "3.5 cups flour",
+               "1 tsp salt",
+               "egg wash(eggyolk + milk)"
+               ]
+       },
+
+     {
+          "image": "./assets/images/image-tiramisu-desktop.jpg",
+          "name": "Conchas",
+          "category": "Bread",
+          "amount": "Makes ?",
+          "time": "325° 18-20 min",
+          "recipe": [
+               "1 cup evaporated milk",
+               "1 tbsp yeast",
+               "1 tbsp sugar",
+               "4.5 cups flour",
+               "0.75 cups sugar",
+               "0.5 tbsp cinammon",
+               "7 tbsp butter, softened",
+               "1 tbsp mexican vanilla",
+               "3 eggs",
+               "0.5 tsp salt",
+               "Topping:",
+               "1 cup powdered sugar",
+               "1 cup flour",
+               "8 tbsp butter, softened",
+               "1 tbsp vanilla"
+          ]
+       },
+
+     {
         "image": "./assets/images/image-meringue-desktop.jpg",
         "name": "Apple Pie",
         "category": "Pie",
@@ -132,46 +215,234 @@
              "2 tsp vanilla extract",
              "1 cup flour",
              "3 eggs + 1 egg yolk",
-             "0.5 cups granulated sugar + cinnamon",
-             "-fhsdkj"
+             "0.5 cups granulated sugar + cinnamon"
              ]
      },
 
      {
-        "image": "./assets/images/image-brownie-desktop.jpg",
-        "name": "Salted Caramel Brownie",
-        "category": "Brownie",
-        "amount": "Makes about 14",
-        "time": "325°  ~20 min",
+        "image": "",
+        "name": "Chocolate Cheesecake",
+        "category": "Cheesecake-unfinished",
+        "amount": "Makes ~12\"",
+        "time": "250° ~1 hr-1 hr 30 min w/ water bath",
         "recipe": [
-             "-fhjsdk",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "-fhsdkj"
+             "Crust: 24-30 oreos, 5 tbsp butter, melted",
+             "3 blocks cream cheese",
+             "0.5 cup Greek Yogurt",
+             "0.66 cups sugar",
+             "3 tbsp cornstarch",
+             "0.5 tsp salt",
+             "3 eggs",
+             "1.5 cups dark chocolate"
              ]
      },
 
      {
-        "image": "./assets/images/image-panna-cotta-desktop.jpg",
-        "name": "Vanilla Panna Cotta",
-        "category": "Panna Cotta",
-        "amount": "Makes about 14",
-        "time": "325°  ~20 min",
+        "image": "",
+        "name": "Banana Nut Muffins",
+        "category": "Muffin",
+        "amount": "Makes ~12",
+        "time": "375°  5 min, then 350° 15 min",
         "recipe": [
-             "-fhjsdk",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "",
-             "-fhsdkj"
+             "1.5 cups flour",
+             "1 tsp baking soda",
+             "1 tsp baking powder",
+             "1 tsp salt",
+             "1 tsp cinnamon",
+             "0.5 tsp allspice",
+             "0.25 tsp cardamom",
+             "3 bananas, mashed",
+             "5.5 tbsp butter, melted",
+             "1 tsp vanilla extract",
+             "0.25 cups Greek Yogurt",
+             "2 eggs",
+             "0.75 cups granulated sugar",
+             "pecans"
              ]
-     }
+     },
+
+     {
+          "image": "",
+          "name": "Lemon Cake",
+          "category": "Cake",
+          "amount": "makes 2 9\" cakes",
+          "time": "350° ~30-35 min",
+          "recipe": [
+               "8 egg whites",
+               "0.5 tsp salt",
+               "3 cups sugar",
+               "1.5 cups vegetable oil",
+               "8 egg yolks",
+               "1.25 cups milk",
+               "8 tbsp lemon juice",
+               "Lemon zest form 2 lemons",
+               "3 cups flour",
+               "1.5 cups cornstarch",
+               "2 tbsp baking powder"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Red Velvet Cake",
+          "category": "Cake",
+          "amount": "makes 2 9\" cakes",
+          "time": "350° ",
+          "recipe": [
+               "2.5 cups all purpose flour",
+               "2.5 tbsp cocoa powder",
+               "1 tsp baking soda",
+               "1 tsp salt",
+               "1.5 cups sugar",
+               "2 eggs",
+               "0.5 cups butter, softened",
+               "1 cups vegetable oil",
+               "1 tsp vinegar",
+               "1 cup buttermilk",
+               "2 tsp vanilla extract",
+               "red food coloring"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Carrot Cake",
+          "category": "Cake",
+          "amount": "Makes 1 loaf",
+          "time": "335° ",
+          "recipe": [
+               "pecans",
+               "1.5 cups brown sugar",
+               "1 cup oil",
+               "4 eggs",
+               "0.5 cups Greek Yogurt",
+               "1 tsp vanilla extract",
+               "2.5 cups flour",
+               "2 tsp baking powder",
+               "1 tsp baking soda",
+               "0.5 tsp salt",
+               "1.5 tsp cinnamon",
+               "1 tsp ginger",
+               "2 cups carrot"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Chocolate Cream Cheese Frosting",
+          "category": "Frosting",
+          "amount": "1 layer??",
+          "time": "",
+          "recipe": [
+               "3 sticks cream cheese, softened",
+               "2 sticks butter, softened",
+               "1.75 cups powdered sugar",
+               "3/4 cup cocoa powder",
+               "1-2 tbsp milk",
+               "1 tsp vanilla extract"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Chocolate Heavy Cream Frosting",
+          "category": "Frosting-Unfinished",
+          "amount": "",
+          "time": "",
+          "recipe": [
+               "2 cups heavy cream",
+               "4 tbsp powdered sugar",
+               "4 tbsp cocoa powder",
+               "0.5 tsp cocoa powder",
+               "2 tsp vanilla extract"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Royal Icing",
+          "category": "Frosting",
+          "amount": "",
+          "time": "",
+          "recipe": [
+               "4 cups powdered sugar",
+               "0.5 tsp salt",
+               "1 tsp vanilla extract",
+               "0.25 cups egg whites",
+               "some water"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "Vanilla ButterCream for Macarons",
+          "category": "frosting",
+          "amount": "",
+          "time": "375°  5 min, then 350° 15 min",
+          "recipe": [
+               "1.5 sticks butter, softened",
+               "2.25 cups powdered sugar",
+               "0.75 tsp vanila extract",
+               "2-4 tbsp heavy cream"
+               ]
+       },
+
+     {
+          "image": "",
+          "name": "Macarons",
+          "category": "Macarons",
+          "amount": "makes ~25",
+          "time": "300°  17 min",
+          "recipe": [
+               "1.5 cups powdered sugar",
+               "1 cup Almond flour",
+               "1 tsp salt",
+               "3 egg whites",
+               "1 pinch salt",
+               "0.25 cups granulated sugar",
+               "0.5 tsp vanilla extract",
+               "food coloring"
+               ]
+       },
+
+       {
+          "image": "./assets/images/glaze.jpg",
+          "name": "Glaze",
+          "category": "Glaze",
+          "amount": "Covers 1 cake",
+          "time": "",
+          "recipe": [
+               "0.5 cups cold water",
+               "5 tsp powdered gelatin",
+               "0.25 cups water",
+               "0.5 cups light corn syrup",
+               "1 cup sugar",
+               "0.5 cup sweetened condensed milk",
+               "8 oz white chocolate"
+               ]
+       },
+
+       {
+          "image": "",
+          "name": "",
+          "category": "",
+          "amount": "",
+          "time": "375°  5 min, then 350° 15 min",
+          "recipe": [
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               "",
+               ""
+               ]
+       }
 ]
