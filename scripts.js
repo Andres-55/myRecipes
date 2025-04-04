@@ -16,6 +16,12 @@ async function loadProducts() {
             });
             recipeList += "</ul>";
 
+            let directionList = "<ul class='directions'>";
+            product.directions.forEach(step => {
+                directionList += `<li>${step}</li>`;
+            });
+            directionList += "</ul>";
+
             productDiv.innerHTML = `
                 <img id="product-img-${index}" class="pics" src="${product.image}" alt="${product.name}">
                 
@@ -25,8 +31,16 @@ async function loadProducts() {
                     <p class="amount">${product.amount}</p>
                     <p class="time">${product.time}</p>
                 </div>
-                ${recipeList}
-                
+                <div class="lists">
+
+                    <div class="rList">
+                        ${recipeList}
+                    </div>
+
+                    <div class="dList">
+                        ${directionList}
+                    </div>
+                </div>
             `;
     
             container.appendChild(productDiv); 

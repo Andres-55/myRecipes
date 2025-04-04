@@ -1,448 +1,653 @@
 [
-    {
-       "image": "./assets/images/chocolate-chip-cookies.jpg",
-       "name": "Chocolate Chip Cookies",
-       "category": "Cookie",
-       "amount": "Makes ~14",
-       "time": "325°  ~20 min",
-       "recipe": [
-            "1 cup unsalted butter, browned",
-            "3/4 cups granulated sugar",
-            "1.5 cups brown sugar",
-            "2 tsp expresso powder",
-            "2 tsp salt",
-            "0.5 tsp baking powder",
-            "2 eggs",
-            "2 tsp vanilla extract",
-            "2.5 cups all-purpose flour",
-            "6 oz chocolate chips"
-            ]
-    },
-
-    {
-     "image": "./assets/images/chocolate-chip-cookies.jpg",
-     "name": "Lemon Cookies",
-     "category": "Cookie-unfinished",
-     "amount": "Makes ~15",
-     "time": "350°  ~20 min",
-     "recipe": [
-          "1.5 cups flour",
-          "0.5 tsp baking powder",
-          "1 pinch salt",
-          "1 stick butter",
-          "1 cup sugar",
-          "1 egg",
-          "zest from 1.5 lemons",
-          "1/4 cup lemon juice",
-          "2.5 cups all-purpose flour",
-          "6 oz chocolate chips"
-          ]
-  },
-
-  {
-     "image": "./assets/images/image-panna-cotta-desktop.jpg",
-     "name": "Sugar Cookies",
-     "category": "Cookies",
-     "amount": "makes ?",
-     "time": "350°  10-12 min",
-     "recipe": [
-          "1.5 cups butter",
-          "1.5 cups sugar",
-          "3 tbsp cream cheese",
-          "1 egg",
-          "2 egg yolks",
-          "1 tsp vanilla extract",
-          "0.5 tsp almond extract",
-          "1 tsp salt",
-          "3.5 cups flour",
-          "0.5 tsp baking powder",
-          "2 tbsp baking powder",
-          "2 tsp cream of tartar"
-          ]
-  },
-
-    {
-        "image": "./assets/images/image-creme-brulee-desktop.jpg",
-        "name": "Chocolate Brownies",
-        "category": "Brownie",
-        "amount": "Makes about 14",
-        "time": "350°  ~22 min",
-        "recipe": [
-             "16 oz chocolate chips(half melted, half chopped)",
-             "24 tbsp butter",
-             "1.25 cups granulated sugar",
-             "0.75 cups brown sugar",
-             "4 eggs",
-             "4 tsp vanilla extract",
-             "0.5 cup cocoa powder",
-             "2 tsp salt", 
-             "1.5 tsp expresso powder"
-             ]
-     },
-
      {
-        "image": "./assets/images/cinnamonrolls.jpg",
-        "name": "Cinnamon Rolls",
-        "category": "Cinnamon Roll",
-        "amount": "makes ~15",
-        "time": "325°  ~25-30 min",
-        "recipe": [
-             "2 cups warm milk",
-             "0.5 cups granulated sugar",
-             "12 tbsp butter, melted",
-             "24 tbsp butter, softened",
-             "2.25 tsp yeast",
-             "5 cups flour",
-             "2 tsp salt",
-             "1.25 brown sugar",
-             "4 tbsp cinnamon",
-             "8 oz cream cheese",
-             "2 tbsp vanilla extract",
-             "1.25 cups powdered sugar"
-             ]
-     },
-
-     {
-        "image": "./assets/images/image-tiramisu-desktop.jpg",
-        "name": "Pizza Dough",
-        "category": "Bread",
-        "amount": "Makes ~14\" Pizza",
-        "time": "400°-500°",
-        "recipe": [
-             "2.5 cup flour",
-             "2 tsp sugar",
-             "1.25 tsp salt",
-             "1 cup water",
-             "1.5 tsp yeast"
-             ]
-     },
-
-     {
-        "image": "./assets/images/image-baklava-desktop.jpg",
-        "name": "Garlic Knots",
-        "category": "Bread",
-        "amount": "Makes ~13",
-        "time": "350°  ~15-20 min",
-        "recipe": [
-             "2 cups flour",
-             "2 tbs yeast",
-             "3.5 tbs sugar",
-             "2 cups water",
-             "2 tbs milk",
-             "1 tbsp garlic powder",
-             "3 cups flour",
-             "1/2 cup Olive oil",
-             "1 tsp salt",
-             "1 stick butter melted",
-             "garlic"
-             ]
-     },
-
-     {
-          "image": "./assets/images/image-panna-cotta-desktop.jpg",
-          "name": "Bagels",
-          "category": "Bagel-unfinished",
-          "amount": "makes 4",
-          "time": "boil for 1 min each side then 400° 20-25 min",
+          
+          "image": "./assets/images/chocolate-chip-cookies.jpg",
+          "name": "Chocolate Chip Cookies",
+          "category": "Cookie",
+          "amount": "Makes ~14",
+          "time": "325°  ~20 min",
           "recipe": [
-               "1 cup water",
-               "2 tsp yeast",
-               "1.5 tbsp sugar",
-               "3.5 cups flour",
-               "1 tsp salt",
-               "egg wash(eggyolk + milk)"
-               ]
-       },
-
-     {
-          "image": "./assets/images/image-tiramisu-desktop.jpg",
-          "name": "Conchas",
-          "category": "Bread",
-          "amount": "Makes ?",
-          "time": "325° 18-20 min",
-          "recipe": [
-               "1 cup evaporated milk",
-               "1 tbsp yeast",
-               "1 tbsp sugar",
-               "4.5 cups flour",
-               "0.75 cups sugar",
-               "0.5 tbsp cinammon",
-               "7 tbsp butter, softened",
-               "1 tbsp mexican vanilla",
-               "3 eggs",
-               "0.5 tsp salt",
-               "Topping:",
-               "1 cup powdered sugar",
-               "1 cup flour",
-               "8 tbsp butter, softened",
-               "1 tbsp vanilla"
-          ]
-       },
-
-     {
-        "image": "./assets/images/image-meringue-desktop.jpg",
-        "name": "Apple Pie",
-        "category": "Pie",
-        "amount": "Makes about 14",
-        "time": "400°  20 min, \ncover with foil 350° 1 hr",
-        "recipe": [
-             "22 tbsp butter",
-             "1 tbsp sugar",
-             "0.75 tsp salt",
-             "2.5 cups flour",
-             "3 lbs Granny Smith apples",
-             "0.8 cup brown sugar",
-             "3 tbsp cornstarch",
-             "3 tsp cinnamon",
-             "2 tsp apple cider vinegar",
-             "0.5 tsp salt",
-             "1 cup oats",
-             "0.5 tsp salt"
-             ]
-     },
-
-     {
-        "image": "./assets/images/churros.jpg",
-        "name": "Churros",
-        "category": "churros",
-        "amount": "Makes ?",
-        "time": "",
-        "recipe": [
-             "6 tbsp butter",
-             "1 cup water",
-             "2 tsp salt",
-             "1.5 tbsp granulated sugar",
-             "2 tsp vanilla extract",
-             "1 cup flour",
-             "3 eggs + 1 egg yolk",
-             "0.5 cups granulated sugar + cinnamon"
-             ]
-     },
-
-     {
-        "image": "",
-        "name": "Chocolate Cheesecake",
-        "category": "Cheesecake-unfinished",
-        "amount": "Makes ~12\"",
-        "time": "250° ~1 hr-1 hr 30 min w/ water bath",
-        "recipe": [
-             "Crust: 24-30 oreos, 5 tbsp butter, melted",
-             "3 blocks cream cheese",
-             "0.5 cup Greek Yogurt",
-             "0.66 cups sugar",
-             "3 tbsp cornstarch",
-             "0.5 tsp salt",
-             "3 eggs",
-             "1.5 cups dark chocolate"
-             ]
-     },
-
-     {
-        "image": "",
-        "name": "Banana Nut Muffins",
-        "category": "Muffin",
-        "amount": "Makes ~12",
-        "time": "375°  5 min, then 350° 15 min",
-        "recipe": [
-             "1.5 cups flour",
-             "1 tsp baking soda",
-             "1 tsp baking powder",
-             "1 tsp salt",
-             "1 tsp cinnamon",
-             "0.5 tsp allspice",
-             "0.25 tsp cardamom",
-             "3 bananas, mashed",
-             "5.5 tbsp butter, melted",
-             "1 tsp vanilla extract",
-             "0.25 cups Greek Yogurt",
-             "2 eggs",
-             "0.75 cups granulated sugar",
-             "pecans"
-             ]
-     },
-
-     {
-          "image": "",
-          "name": "Lemon Cake",
-          "category": "Cake",
-          "amount": "makes 2 9\" cakes",
-          "time": "350° ~30-35 min",
-          "recipe": [
-               "8 egg whites",
-               "0.5 tsp salt",
-               "3 cups sugar",
-               "1.5 cups vegetable oil",
-               "8 egg yolks",
-               "1.25 cups milk",
-               "8 tbsp lemon juice",
-               "Lemon zest form 2 lemons",
-               "3 cups flour",
-               "1.5 cups cornstarch",
-               "2 tbsp baking powder"
-               ]
-       },
-
-       {
-          "image": "",
-          "name": "Red Velvet Cake",
-          "category": "Cake",
-          "amount": "makes 2 9\" cakes",
-          "time": "350° ",
-          "recipe": [
-               "2.5 cups all purpose flour",
-               "2.5 tbsp cocoa powder",
-               "1 tsp baking soda",
-               "1 tsp salt",
-               "1.5 cups sugar",
-               "2 eggs",
-               "0.5 cups butter, softened",
-               "1 cups vegetable oil",
-               "1 tsp vinegar",
-               "1 cup buttermilk",
-               "2 tsp vanilla extract",
-               "red food coloring"
-               ]
-       },
-
-       {
-          "image": "",
-          "name": "Carrot Cake",
-          "category": "Cake",
-          "amount": "Makes 1 loaf",
-          "time": "335° ",
-          "recipe": [
-               "pecans",
+               "1 cup unsalted butter, browned",
+               "3/4 cups granulated sugar",
                "1.5 cups brown sugar",
-               "1 cup oil",
-               "4 eggs",
-               "0.5 cups Greek Yogurt",
-               "1 tsp vanilla extract",
-               "2.5 cups flour",
-               "2 tsp baking powder",
-               "1 tsp baking soda",
-               "0.5 tsp salt",
-               "1.5 tsp cinnamon",
-               "1 tsp ginger",
-               "2 cups carrot"
-               ]
-       },
+               "2 tsp expresso powder",
+               "2 tsp salt",
+               "0.5 tsp baking powder",
+               "2 eggs",
+               "2 tsp vanilla extract",
+               "2.5 cups all-purpose flour",
+               "6 oz chocolate chips"
+               ],
+          "directions": [
+               "brown butter and let it cool",
+               "mix all the dry ingredients except flour",
+               "mix in eggs one at a time",
+               "add vanilla and butter gradually",
+               "add flour gradually",
+               "add chocolate chips",
+               "rest in fridge for at least an hour or 2 days for best results",
+               "take out of fridge and rest for at least an hour to make it easier to scoop",
+               "place onto parthment paper and make a hole in the middle",
+               "bake at 325° for about 20 min or until edges are brown",
+               "for double chocolate chip cookies, take off 0.5 cups flour and add 1.5 cups cocoa powder",
+               "(Try using 0.25 cups less butter)"
+          ]
+     },
 
-       {
-          "image": "",
-          "name": "Chocolate Cream Cheese Frosting",
-          "category": "Frosting",
-          "amount": "1 layer??",
-          "time": "",
+     {
+          "image": "./assets/images/chocolate-chip-cookies.jpg",
+          "name": "Lemon Cookies",
+          "category": "Cookie-unfinished",
+          "amount": "Makes ~15",
+          "time": "350°  ~15 min",
           "recipe": [
-               "3 sticks cream cheese, softened",
-               "2 sticks butter, softened",
-               "1.75 cups powdered sugar",
-               "3/4 cup cocoa powder",
-               "1-2 tbsp milk",
-               "1 tsp vanilla extract"
-               ]
-       },
-
-       {
-          "image": "",
-          "name": "Chocolate Heavy Cream Frosting",
-          "category": "Frosting-Unfinished",
-          "amount": "",
-          "time": "",
-          "recipe": [
-               "2 cups heavy cream",
-               "4 tbsp powdered sugar",
-               "4 tbsp cocoa powder",
-               "0.5 tsp cocoa powder",
-               "2 tsp vanilla extract"
-               ]
-       },
-
-       {
-          "image": "",
-          "name": "Royal Icing",
-          "category": "Frosting",
-          "amount": "",
-          "time": "",
-          "recipe": [
-               "4 cups powdered sugar",
-               "0.5 tsp salt",
-               "1 tsp vanilla extract",
-               "0.25 cups egg whites",
-               "some water"
-               ]
-       },
-
-       {
-          "image": "",
-          "name": "Vanilla ButterCream for Macarons",
-          "category": "frosting",
-          "amount": "",
-          "time": "375°  5 min, then 350° 15 min",
-          "recipe": [
-               "1.5 sticks butter, softened",
-               "2.25 cups powdered sugar",
-               "0.75 tsp vanila extract",
-               "2-4 tbsp heavy cream"
-               ]
-       },
+               "1.5 cups flour",
+               "0.5 tsp baking powder",
+               "1 pinch salt",
+               "1 stick butter",
+               "1 cup sugar",
+               "1 egg",
+               "zest from 1.5 lemons",
+               "1/4 cup lemon juice",
+               "2.5 cups all-purpose flour",
+               "6 oz chocolate chips"
+               ],
+          "directions": [
+               "mix flour, baking owder, and salt",
+               "mix in the rest of the ingredients",
+               "chill in the fridge for 1 hr",
+               "roll cookies in powdered sugar and place on parchment paper",
+               "bake at 350° for about 15 min or until edges are brown",
+               "(try boiling the lemon juice a little and add an extra 2tbsp of juice)"
+          ]
+     },
 
      {
           "image": "",
-          "name": "Macarons",
-          "category": "Macarons",
-          "amount": "makes ~25",
-          "time": "300°  17 min",
+          "name": "Sugar Cookies",
+          "category": "Cookies",
+          "amount": "makes ?",
+          "time": "350°  10-12 min",
           "recipe": [
-               "1.5 cups powdered sugar",
-               "1 cup Almond flour",
+               "1.5 cups butter, softened",
+               "1.5 cups sugar",
+               "3 tbsp cream cheese(optional)",
+               "1 egg",
+               "2 egg yolks",
+               "1 tsp vanilla extract",
+               "0.5 tsp almond extract",
                "1 tsp salt",
-               "3 egg whites",
-               "1 pinch salt",
-               "0.25 cups granulated sugar",
-               "0.5 tsp vanilla extract",
-               "food coloring"
+               "3.5 cups flour",
+               "0.5 tsp baking powder",
+               "2 tbsp baking powder",
+               "2 tsp cream of tartar"
+               ],
+          "directions": [
+               "mix butter, sugar and cream cheese",
+               "mix in eggs, vanilla, and almond extract",
+               "mix in the rest of the ingredients",
+               "chill for 2 hours",
+               "roll out dough and cut into shapes",
+               "bake at 350° for about 10-12 min or until edges are brown"
                ]
-       },
+     },
 
-       {
-          "image": "./assets/images/glaze.jpg",
-          "name": "Glaze",
-          "category": "Glaze",
-          "amount": "Covers 1 cake",
+     {
+          "image": "",
+          "name": "Chocolate Brownies",
+          "category": "Brownie",
+          "amount": "Makes about 14",
+          "time": "350°  ~22 min",
+          "recipe": [
+               "16 oz chocolate chips(half melted, half chopped)",
+               "24 tbsp butter",
+               "1.25 cups granulated sugar",
+               "0.75 cups brown sugar",
+               "4 eggs",
+               "4 tsp vanilla extract",
+               "1.5 tbsp milk",
+               "0.5 cup cocoa powder",
+               "2 tsp salt", 
+               "1.5 tsp expresso powder"
+               ],
+          "directions": [
+               "melt half the chocolate chips and let it cool",
+               "in another bowl, melt the butter",
+               "mix in sugar into the butter",
+               "add eggs one at a time, milk, and vanilla",
+               "add melted chocoalate",
+               "add flour, cocoa powder, salt, and expresso powder",
+               "add any toppings",
+               "put partchment paper in oiled pan and pour batter in",
+               "bake at 350° for about 22 min or until edges start cracking",
+               "(Try browning butter and taking out 4 tbsp of butter)"
+          ]
+          },
+
+          {
+          "image": "./assets/images/cinnamonrolls.jpg",
+          "name": "Cinnamon Rolls",
+          "category": "Cinnamon Roll",
+          "amount": "makes ~15",
+          "time": "325°  ~25-30 min",
+          "recipe": [
+               "2 cups warm milk",
+               "0.5 cups granulated sugar",
+               "8 tbsp butter, melted",
+               "2.25 tsp yeast",
+               "5 cups flour",
+               "2 tsp salt",
+               "1.25 brown sugar",
+               "1.5 cups butter, softened",
+               "4 tbsp cinnamon",
+               "8 oz cream cheese",
+               "4 tbsp butter, melted",
+               "2 tbsp vanilla extract",
+               "8 tbsp milk",
+               "1.25 cups powdered sugar"
+               ],
+          "directions": [
+               "mix 2 cups milk and yeast and let it proof for at 5-10 min",
+               "mix sugar, 8 tbsp melted butter and the yeast mixture",
+               "mix in 4 cups of flour and knead",
+               "rest for an hour",
+               "add 1 cup of flour and salt and knead",
+               "rest for 35-45 min",
+               "Filling: mix brown sugar, 1.5 cups softened butter, and cinnamon",
+               "roll out dough and add filling",
+               "butter pan and bake at 350° for about 25-30 min or until light brown",
+               "Frosting: mix cream cheese, melted butter, vanilla, 8 tbsp milk, and powdered sugar",
+               "let it cool for 10-15 min and add frosting",
+               "(try adding some heavy cream before baking)"
+          ]
+          },
+
+          {
+          "image": "",
+          "name": "Pizza Dough",
+          "category": "Bread",
+          "amount": "Makes ~12\" Pizza",
+          "time": "400°-500°",
+          "recipe": [
+               "2.5 cup flour",
+               "2 tsp sugar",
+               "1.25 tsp salt",
+               "1 cup water",
+               "1.5 tsp yeast"
+               ],
+          "directions": [
+               "mix water and yeast and let it proof for at least 5 min",
+               "mix flour, sugar, salt, and yeast mixture",
+               "knead",
+               "rest in oiled bowl for 1-2 hours or until doubled in size",
+               "punch dough and let it rest for 15-30 min",
+               "roll dough onto oiled pan",
+               "bake at 400°-500° until edges are light brown"
+          ]
+          },
+
+          {
+          "image": "",
+          "name": "Garlic Knots",
+          "category": "Bread",
+          "amount": "Makes ~13",
+          "time": "350°  ~15-20 min",
+          "recipe": [
+               "2 cups flour",
+               "2 tbs yeast",
+               "3.5 tbs sugar",
+               "2 cups water",
+               "2 tbs milk",
+               "1 tbsp garlic powder",
+               "3 cups flour",
+               "1/2 cup Olive oil",
+               "1 tsp salt",
+               "1 stick butter melted",
+               "garlic"
+               ],
+          "directions": [
+               "mix yeasrt and water and let it proof for 5-10 min",
+               "mix 2 cups flour, sugar, milk and yeast mixture",
+               "cover for 10 min",
+               "add garlic pwder, 3 cups flour, oil, and salt",
+               "knead and roll in shape",
+               "add eggwash with garlic",
+               "add onto partchment and bake at 350° for 10-20 min or until edges are light brown",
+               "(Try adding 3 tbsp of oil and bake at 340)"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Bagels",
+               "category": "Bagel-unfinished",
+               "amount": "makes 4",
+               "time": "boil for 1 min each side then 400° 20-25 min",
+               "recipe": [
+                    "1 cup water",
+                    "2 tsp yeast",
+                    "1.5 tbsp sugar",
+                    "3.5 cups flour",
+                    "1 tsp salt",
+                    "egg wash(eggyolk + milk)"
+                    ],
+               "directions": [
+               "mix water and yeast and let it proof for 5-10 min",
+               "mix in sugar flour, salt and yeast mixture",
+               "for a sweeter bagel use 4 tbsp of sugar",
+               "knead and then rest for an hour or until doubled",
+               "add asny toppings and shape into bagels and let it rest for for 10-20 min",
+               "boil for 1 min each side",
+               "add egg wash with milk after taking them out",
+               "use partchment paper and bake at 400° for 20-25 min",
+               "(Try adding honey or baking soda in boiling water for chewier textuer)"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Conchas",
+               "category": "Bread",
+               "amount": "Makes ?",
+               "time": "325° 18-20 min",
+               "recipe": [
+                    "1 cup evaporated milk",
+                    "1 tbsp yeast",
+                    "1 tbsp sugar",
+                    "4.5 cups flour",
+                    "0.75 cups sugar",
+                    "0.5 tbsp cinammon",
+                    "7 tbsp butter, softened",
+                    "1 tbsp mexican vanilla",
+                    "3 eggs",
+                    "0.5 tsp salt",
+                    "Topping:",
+                    "1 cup powdered sugar",
+                    "1 cup flour",
+                    "8 tbsp butter, softened",
+                    "1 tbsp vanilla"
+               ],
+          "directions": [
+               "mix evaporated milk, sugar, and yeast and let it proof for 5-10 min",
+               "mix flour, sugar, and cinammon",
+               "mix in butter, vanilla, and yeast mixture",
+               "add eggs gradually and salt",
+               "knead and then rest for 1-2 hours or until doubled",
+               "for the sugar on top:",
+               "mix powdered sugar, 1 cup flour, butter, and vanilla",
+               "for chocolate att 1-2 tbsp cocoa powder",
+               "roll dough into shape and place onto partchment paper",
+               "butter conchas then add sugar topping",
+               "rest for 30 min",
+               "bake at 325° for 18-20 min",
+               "try baking at 315"
+          ]
+          },
+
+          {
+          "image": "",
+          "name": "Apple Pie",
+          "category": "Pie",
+          "amount": "Makes about 14",
+          "time": "400°  ~18 min, \ncover with foil 350° 1 hr",
+          "recipe": [
+               "10 tbsp butter",
+               "1 tbsp sugar",
+               "0.75 tsp salt",
+               "1.5 cups flour",
+               "Filling:",
+               "3 lbs Granny Smith apples",
+               "0.5 cup brown sugar",
+               "3 tbsp cornstarch",
+               "2 tsp cinnamon",
+               "1.5 tsp apple cider vinegar",
+               "0.5 tsp salt",
+               "2 tbsp butter",
+               "Crumble:",
+               "1 cup flour",
+               "0.5 tsp salt",
+               "1 cup oats",
+               "0.33 cups brown sugar",
+               "0.5 tsp salt",
+               "1 tsp cinammon",
+               "10 tbsp butter"
+               ],
+          "directions": [
+               "mix 10 tbsp butter, sugar, salt, and flour",
+               "mix until combined and rest in fridge for 1-2 hours",
+               "for the filling, peel and cut apples in half slices",
+               "mx 0.5 cu[s borwn sugar, cornstartch, 2 tsp cinammon, vinegar, 0.5 tsp salt, and 2 tbsp butter",
+               "for the crumble, mix 1 cup flour, oats, 0.33 cups brown sugar, 1 tsp cinnamon, 0.5 tsp salt, 10 tbsp butter",
+               "roll out crust onto pan, add the filling, and then the crumble",
+               "bake at 400° for about 18 min or untl light browning, then cover with foil and bake at 350° for another hour"
+          ]
+          },
+
+          {
+          "image": "./assets/images/churros.jpg",
+          "name": "Churros",
+          "category": "churros",
+          "amount": "Makes ?",
           "time": "",
           "recipe": [
-               "0.5 cups cold water",
-               "5 tsp powdered gelatin",
-               "0.25 cups water",
-               "0.5 cups light corn syrup",
-               "1 cup sugar",
-               "0.5 cup sweetened condensed milk",
-               "8 oz white chocolate"
-               ]
-       },
+               "6 tbsp butter",
+               "1 cup water",
+               "1.25 tsp salt",
+               "1.5 tbsp granulated sugar",
+               "2 tsp vanilla extract",
+               "1 cup flour",
+               "3 eggs + 1 egg yolk",
+               "0.5 cups granulated sugar + cinnamon"
+               ],
+          "directions": [
+               "mix butter water, salt, sugar, and vanilla",
+               "add flour gradually",
+               "add eggs gradually",
+               "fry at 350°-375°",
+               "immedialty coat in sugar and do not store in airtight containers"
+          ]
+          },
 
-       {
+          {
           "image": "",
-          "name": "",
-          "category": "",
-          "amount": "",
+          "name": "Chocolate Cheesecake",
+          "category": "Cheesecake-unfinished",
+          "amount": "Makes ~12\"",
+          "time": "250° ~1 hr-1 hr 30 min w/ water bath",
+          "recipe": [
+               "Crust: 24-30 oreos, 5 tbsp butter, melted",
+               "3 blocks cream cheese",
+               "0.5 cup Greek Yogurt",
+               "0.66 cups sugar",
+               "3 tbsp cornstarch",
+               "0.5 tsp salt",
+               "3 eggs",
+               "1.5 cups dark chocolate"
+               ],
+          "directions": [
+               "For crust, blend 24-30 oreos and mix with 5 tbsp melted butter",
+               "press onto bottom of pan",
+               "bake at 250° for 10 min",
+               "let it cool",
+               "for the filling melt the chocolate and let it cool a little",
+               "mix in cream cheese, Greek Yogurt, sugar, cornstarch, eggs, and salt",
+               "pour onto crust and bake it at 250° for 1 hour in a water bath or until it has a jello texture"
+          ]
+          },
+
+          {
+          "image": "",
+          "name": "Banana Nut Muffins",
+          "category": "Muffin",
+          "amount": "Makes ~12",
           "time": "375°  5 min, then 350° 15 min",
           "recipe": [
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               ""
-               ]
-       }
-]
+               "1.5 cups flour",
+               "1 tsp baking soda",
+               "1 tsp baking powder",
+               "1 tsp salt",
+               "1 tsp cinnamon",
+               "0.5 tsp allspice",
+               "0.25 tsp cardamom",
+               "3 bananas, mashed",
+               "5.5 tbsp butter, melted",
+               "1 tsp vanilla extract",
+               "0.25 cups Greek Yogurt",
+               "2 eggs",
+               "0.75 cups granulated sugar",
+               "pecans"
+               ],
+          "directions": [
+               "mix flour, baking soda, baking powder, salt, cinammon, allspice, and cardamom",
+               "smash bananas and add it to the dry ingredients",
+               "mix in melted butter, vanilla, yogurt, eggs, and sugar",
+               "add pecans or any toppings",
+               "bake at 375° for 5 min, then 350° for 15 min or until edges are light brown"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Lemon Cake",
+               "category": "Cake",
+               "amount": "makes 2 9\" cakes",
+               "time": "350° ~30-35 min",
+               "recipe": [
+                    "8 egg whites",
+                    "0.5 tsp salt",
+                    "3 cups sugar",
+                    "1.5 cups vegetable oil",
+                    "8 egg yolks",
+                    "1.25 cups milk",
+                    "8 tbsp lemon juice",
+                    "Lemon zest form 2 lemons",
+                    "3 cups flour",
+                    "1.5 cups cornstarch",
+                    "2 tbsp baking powder"
+                    ],
+               "directions": [
+               "whip egg whites until stiff peaks",
+               "fold in sugar, salt, and egg yolks",
+               "add oil, milk, lemon juice, and zest",
+               "gradually add flour, cornstarch, and baking powder",
+               "bake at 350° for 30 to 35 min or until edges are light brown",
+               "(try boiling lemon juice a little)"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Red Velvet Cake",
+               "category": "Cake",
+               "amount": "makes 2 9\" cakes",
+               "time": "350° ",
+               "recipe": [
+                    "2.5 cups all purpose flour",
+                    "2.5 tbsp cocoa powder",
+                    "1 tsp baking soda",
+                    "1 tsp salt",
+                    "1.5 cups sugar",
+                    "2 eggs",
+                    "0.5 cups butter, softened",
+                    "1 cups vegetable oil",
+                    "1 tsp vinegar",
+                    "1 cup buttermilk",
+                    "2 tsp vanilla extract",
+                    "red food coloring"
+                    ],
+               "directions": [
+               "sift flour, cocoa powder, baking soda, and salt",
+               "mix in the rest of the ingredients",
+               "bake at 350° "
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Carrot Cake",
+               "category": "Cake",
+               "amount": "Makes 1 loaf",
+               "time": "335° ",
+               "recipe": [
+                    "pecans",
+                    "1.5 cups brown sugar",
+                    "1 cup oil",
+                    "4 eggs",
+                    "0.5 cups Greek Yogurt",
+                    "1 tsp vanilla extract",
+                    "2.5 cups flour",
+                    "2 tsp baking powder",
+                    "1 tsp baking soda",
+                    "0.5 tsp salt",
+                    "1.5 tsp cinnamon",
+                    "1 tsp ginger",
+                    "2 cups carrot"
+                    ],
+               "directions": [
+               "mix everything together and bake at 335° "
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Chocolate Cream Cheese Frosting",
+               "category": "Frosting",
+               "amount": "1 layer??",
+               "time": "",
+               "recipe": [
+                    "3 sticks cream cheese, softened",
+                    "2 sticks butter, softened",
+                    "1.75 cups powdered sugar",
+                    "3/4 cup cocoa powder",
+                    "1-2 tbsp milk",
+                    "1 tsp vanilla extract"
+                    ],
+               "directions": [
+               "whipe cream cheese and butter until fluffy",
+               "sift powdered sugar and cocoa powder and mix it in",
+               "add milk and vanilla"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Chocolate Heavy Cream Frosting",
+               "category": "Frosting-Unfinished",
+               "amount": "",
+               "time": "",
+               "recipe": [
+                    "2 cups heavy cream",
+                    "4 tbsp powdered sugar",
+                    "4 tbsp cocoa powder",
+                    "0.5 tsp cocoa powder",
+                    "2 tsp vanilla extract"
+                    ],
+               "directions": [
+               "whipe heavy cream until stiff peaks",
+               "sift powdered sugar, expresso powder, and cocoa powder and mix it in",
+               "add vanilla"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Royal Icing",
+               "category": "Frosting",
+               "amount": "",
+               "time": "",
+               "recipe": [
+                    "4 cups powdered sugar",
+                    "0.5 tsp salt",
+                    "1 tsp vanilla extract",
+                    "0.25 cups egg whites",
+                    "some water"
+                    ],
+               "directions": [
+               "whip eggs until frothy and slowly add powdered sugar",
+               "add salt and vanilla",
+               "add water if needed"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Vanilla ButterCream for Macarons",
+               "category": "frosting",
+               "amount": "",
+               "time": "375°  5 min, then 350° 15 min",
+               "recipe": [
+                    "1.5 sticks butter, softened",
+                    "2.25 cups powdered sugar",
+                    "0.75 tsp vanila extract",
+                    "2-4 tbsp heavy cream"
+                    ],
+               "directions": [
+               "whip butter until almost stiff peaks",
+               "sift in powdered sugar",
+               "add vanilla and slowly add hevay cream until desired consistency"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "Macarons",
+               "category": "Macarons",
+               "amount": "makes ~25",
+               "time": "300°  17 min",
+               "recipe": [
+                    "1.5 cups powdered sugar",
+                    "1 cup Almond flour",
+                    "1 tsp salt",
+                    "3 egg whites",
+                    "1 pinch salt",
+                    "0.25 cups granulated sugar",
+                    "0.5 tsp vanilla extract",
+                    "food coloring"
+                    ],
+               "directions": [
+               "blend powdered sugar, salt, and almond flour",
+               "whip egg whites and salt until stiff peaks",
+               "slowly add gramulated sugar while whipping",
+               "add vanilla and any food coloring",
+               "fold in the dry ingredients until combined",
+               "batter should form a ribbon when lifted and disappear in 10-15 sec",
+               "put batter into piping bag and pipe onto parchment paper",
+               "tap the tray to remove air bubbles",
+               "rest for 30 min to 60 min or until a skin develops",
+               "bake at 300° for about 17 min or until they develop feet",
+               "let them cool completely before taking them off"
+          ]
+          },
+
+          {
+               "image": "./assets/images/glaze.jpg",
+               "name": "Glaze",
+               "category": "Glaze",
+               "amount": "Covers 1 cake",
+               "time": "",
+               "recipe": [
+                    "0.5 cups cold water",
+                    "5 tsp powdered gelatin",
+                    "0.25 cups water",
+                    "0.5 cups light corn syrup",
+                    "1 cup sugar",
+                    "0.5 cup sweetened condensed milk",
+                    "8 oz white chocolate"
+                    ],
+               "directions": [
+               "bloom gelatin in 0.5 cups cold water",
+               "boil 0.25 cups of water with corn syrup and sugar",
+               "after it thickens lower heat and add condensed milk and white chocolate",
+               "add the gelatin and any food coloring and mix until combined",
+               "let it cool a little and quickly add it to the cake before it hardens"
+          ]
+          },
+
+          {
+               "image": "",
+               "name": "",
+               "category": "",
+               "amount": "",
+               "time": "375°  5 min, then 350° 15 min",
+               "recipe": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                    ],
+               "directions": [
+                    "",
+                    ""
+          ]
+          }
+     ] 
