@@ -407,6 +407,39 @@
           },
 
           {
+               "image": "./assets/images/chocoCake.jpg",
+               "name": "Chocolate Cake",
+               "category": "Cake",
+               "amount": "2 9\" cakes",
+               "time": "350°  ~20-30 min",
+               "recipe": [
+                    "2.5 cups Flour",
+                    "1 cup cocoa powder",
+                    "2 tsp baking powder",
+                    "0.5 tsp baking soda",
+                    "0.75 tsp salt",
+                    "1 tsp espresso powder",
+                    "1.5 cups unsalted butter, softened",
+                    "2 cups sugar",
+                    "4 eggs, room temperature",
+                    "1 tbsp vanilla",
+                    "1.33 cups buttermilk, room temperature",
+                    "2 tbsp oil"
+                    ],
+               "directions": [
+                    "Mix all dry ingredients in a separate bowl except sugar and put aside",
+                    "In another bowl cream butter and sugar until fluffy",
+                    "Add eggs one at a time and mix well after each addition",
+                    "Add the vanilla and mix",
+                    "Gradually add the dry ingredients, oil, and buttermilk and mix until combined",
+                    "Grease two 9\" round cake pans and lightly dust with flour",
+                    "Add the batter and bake at 350° for about 20-30 min or until a toothpick comes out with some crumbs",
+                    "Try letting the cake cool upside down on a wire rack after a few minutes"
+
+          ]
+          },
+
+          {
                "image": "",
                "name": "Lemon Cake",
                "category": "Cake",
@@ -510,22 +543,27 @@
           },
 
           {
-               "image": "",
+               "image": "./assets/images/chocoCake.jpg",
                "name": "Chocolate Heavy Cream Frosting",
                "category": "Frosting-Unfinished",
                "amount": "",
                "time": "",
                "recipe": [
-                    "2 cups heavy cream",
-                    "4 tbsp powdered sugar",
+                    "2 cups heavy cream, cold",
+                    "1 cup powdered sugar(I think)",
                     "4 tbsp cocoa powder",
-                    "0.5 tsp cocoa powder",
-                    "2 tsp vanilla extract"
+                    "0.5 tsp espresso powder",
+                    "2 tsp vanilla extract",
+                    "1 pinch salt",
+                    "Stablizer: 3/4 block cream cheese, softened or 1 tbsp instant pudding mix"
                     ],
                "directions": [
-               "whipe heavy cream until stiff peaks",
+               "if using cream cheese, whip it until fluffy",
+               "slowly add heavy cream and whip it until stiff peaks",
                "sift powdered sugar, expresso powder, and cocoa powder and mix it in",
-               "add vanilla"
+               "if using instant pudding mix, mix it with the other dry ingredients",
+               "add vanilla and salt",
+               "Add milk if needed"
           ]
           },
 
