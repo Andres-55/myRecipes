@@ -53,7 +53,7 @@
                "6 oz chocolate chips"
                ],
           "directions": [
-               "mix flour, baking owder, and salt",
+               "mix flour, baking powder, and salt",
                "mix in the rest of the ingredients",
                "chill in the fridge for 1 hr",
                "roll cookies in powdered sugar and place on parchment paper",
@@ -64,7 +64,7 @@
 
      {
           "image": "",
-          "name": "Sugar Cookies",
+          "name": "Christmas Sugar Cookies",
           "category": "Cookies",
           "amount": "makes ?",
           "time": "350°  10-12 min",
@@ -89,6 +89,36 @@
                "chill for 2 hours",
                "roll out dough and cut into shapes",
                "bake at 350° for about 10-12 min or until edges are brown"
+               ]
+     },
+
+     {
+          "image": "./assets/images/sugarCookies.jpg",
+          "name": "Sugar Cookies",
+          "category": "Cookies",
+          "amount": "makes ?",
+          "time": "350°  10-12 min",
+          "recipe": [
+               "1 cup butter, softened",
+               "1 cup sugar",
+               "1.5 tsp vanilla extract",
+               "1 tsp almond extract",
+               "0.5 tsp salt?",
+               "3 cups flour"
+               ],
+          "directions": [
+               "mix butter and sugar until fluffy",
+               "mix in eggs at room temperature and both extracts",
+               "slowly add flour and salt until combined",
+               "cut into pieces and place onto parchment paper",
+               "chill for at least 20 minutes",
+               "add food coloring to each piece and mix it in",
+               "repeatedly put into freezer for a few minutes so it is keeps its shape",
+               "Roll dough out and create whatever you want",
+               "Use any tool like the bottom of a cup, decorator tips, or your hands",
+               "bake at 350° for about 8-12 min or until edges start browning",
+               "Tip: Do not roll dough too thin to prevent ripping when picking up.\n Also scoop up the cookies with a bench scraper quickly",
+               "-(Try 0.75 tsp almond extract) "
                ]
      },
 
@@ -226,7 +256,7 @@
                "recipe": [
                     "1 cup water",
                     "2 tsp yeast",
-                    "1.5 tbsp sugar",
+                    "2 tbsp sugar",
                     "3.5 cups flour",
                     "1 tsp salt",
                     "egg wash(eggyolk + milk)"
@@ -236,11 +266,11 @@
                "mix in sugar flour, salt and yeast mixture",
                "for a sweeter bagel use 4 tbsp of sugar",
                "knead and then rest for an hour or until doubled",
-               "add asny toppings and shape into bagels and let it rest for for 10-20 min",
+               "add any toppings and shape into bagels and let it rest for for 10-20 min",
+               "add about 1-2 tbsp of honey into boiling water",
                "boil for 1 min each side",
                "add egg wash with milk after taking them out",
-               "use partchment paper and bake at 400° for 20-25 min",
-               "(Try adding honey or baking soda in boiling water for chewier textuer)"
+               "use partchment paper and bake at 400° for 20-25 min"
           ]
           },
 
@@ -376,6 +406,39 @@
           },
 
           {
+          "image": "./assets/images/bananaPudding.jpg",
+          "name": "Banana Pudding",
+          "category": "Pudding",
+          "amount": "Makes about a 12\" by 8\" pan",
+          "time": "",
+          "recipe": [
+               "1 block cream cheese",
+               "1 can lechera",
+               "1 box vanilla pudding mix",
+               "1 box banana pudding mix",
+               "1 tbsp vanilla",
+               "0.5 tsp salt?",
+               "4 cups milk",
+               "2.5 cups heavy cream",
+               "1 cup powdered sugar",
+               "1-2 bananas",
+               "Lady Fingers(See Recipe) or Nilla Wafers"
+               ],
+          "directions": [
+               "In one bowl mix the cream cheese, lechera, vanilla, pudding mixes, and salt",
+               "In another bowl, whip heavy cream until right before desired consistency and slowly add powdered sugar",
+               "Soft peaks would make it more runny and stiff peaks would make it more fluffy",
+               "Mix in powdered sugar and vanilla gradually to the whip cream and whip until desired consistency",
+               "Slowly add in pudding mixture and mix until combined",
+               "Add in pudding into pan, Wafers, and bananas however you like",
+               "Leave in fridge for at least 40 minutes to set",
+               "Tips: Adding a thin layer of pudding and then a layer of wafers first makes it more stable.",
+               "Do not add bananas on top because they will brown quickly",
+               "Make the whip cream first if you think you would take more than 20 minutes as the pudding mixture can set before you finish"
+          ]
+          },
+
+          {
           "image": "",
           "name": "Banana Nut Muffins",
           "category": "Muffin",
@@ -403,6 +466,39 @@
                "mix in melted butter, vanilla, yogurt, eggs, and sugar",
                "add pecans or any toppings",
                "bake at 375° for 5 min, then 350° for 15 min or until edges are light brown"
+          ]
+          },
+
+          {
+               "image": "./assets/images/chocoCake.jpg",
+               "name": "Chocolate Cake",
+               "category": "Cake",
+               "amount": "2 9\" cakes",
+               "time": "350°  ~20-30 min",
+               "recipe": [
+                    "2.5 cups Flour",
+                    "1 cup cocoa powder",
+                    "2 tsp baking powder",
+                    "0.5 tsp baking soda",
+                    "0.75 tsp salt",
+                    "1 tsp espresso powder",
+                    "1.5 cups unsalted butter, softened",
+                    "2 cups sugar",
+                    "4 eggs, room temperature",
+                    "1 tbsp vanilla",
+                    "1.33 cups buttermilk, room temperature",
+                    "2 tbsp oil"
+                    ],
+               "directions": [
+                    "Mix all dry ingredients in a separate bowl except sugar and put aside",
+                    "In another bowl cream butter and sugar until fluffy",
+                    "Add eggs one at a time and mix well after each addition",
+                    "Add the vanilla and mix",
+                    "Gradually add the dry ingredients, oil, and buttermilk and mix until combined",
+                    "Grease two 9\" round cake pans and lightly dust with flour",
+                    "Add the batter and bake at 350° for about 20-30 min or until a toothpick comes out with some crumbs",
+                    "Try letting the cake cool upside down on a wire rack after a few minutes"
+
           ]
           },
 
@@ -510,22 +606,27 @@
           },
 
           {
-               "image": "",
+               "image": "./assets/images/chocoCake.jpg",
                "name": "Chocolate Heavy Cream Frosting",
                "category": "Frosting-Unfinished",
                "amount": "",
                "time": "",
                "recipe": [
-                    "2 cups heavy cream",
-                    "4 tbsp powdered sugar",
+                    "2 cups heavy cream, cold",
+                    "1 cup powdered sugar(I think)",
                     "4 tbsp cocoa powder",
-                    "0.5 tsp cocoa powder",
-                    "2 tsp vanilla extract"
+                    "0.5 tsp espresso powder",
+                    "2 tsp vanilla extract",
+                    "1 pinch salt",
+                    "Stablizer: 3/4 block cream cheese, softened or 1 tbsp instant pudding mix"
                     ],
                "directions": [
-               "whipe heavy cream until stiff peaks",
+               "if using cream cheese, whip it until fluffy",
+               "slowly add heavy cream and whip it until stiff peaks",
                "sift powdered sugar, expresso powder, and cocoa powder and mix it in",
-               "add vanilla"
+               "if using instant pudding mix, mix it with the other dry ingredients",
+               "add vanilla and salt",
+               "Add milk if needed"
           ]
           },
 
